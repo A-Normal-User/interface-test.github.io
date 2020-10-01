@@ -82,3 +82,15 @@ p {
 button::-moz-focus-inner {
   border-color: transparent;
 }
+
+.about{
+
+width:500px;
+
+height:300px;
+
+background:#660099;
+
+position:relative; /*设置源相对定位*/
+
+}
